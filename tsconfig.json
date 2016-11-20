@@ -1,0 +1,48 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": false,
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "noLib": false
+    },
+    "filesGlob": [
+        "**/*.ts",
+        "!node_modules/**",
+        "!bower_components/**",
+        "!config/**",
+        "!typings/**",
+        "!data/**"
+    ],
+    "exclude": [
+        "node_modules",
+        "bower_components"
+    ],
+    "formatCodeOptions": {
+        "indentSize": 4,
+        "tabSize": 4,
+        "newLineCharacter": "\r\n",
+        "convertTabsToSpaces": true,
+        "insertSpaceAfterCommaDelimiter": true,
+        "insertSpaceAfterSemicolonInForStatements": true,
+        "insertSpaceBeforeAndAfterBinaryOperators": true,
+        "insertSpaceAfterKeywordsInControlFlowStatements": true,
+        "insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+        "insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": false,
+        "placeOpenBraceOnNewLineForFunctions": false,
+        "placeOpenBraceOnNewLineForControlBlocks": false
+    },
+    "scripts": {
+        "postbuild": "Project was successfully built"
+    },
+    "atom": {
+        "rewriteTsconfig": true,
+        "formatOnSave": true
+    },
+    "files": [
+        "natural-gas/NaturalGasPrices.ts"
+    ]
+}

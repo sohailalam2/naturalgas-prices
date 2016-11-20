@@ -1,0 +1,36 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    },
+    "express/express.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    },
+    "mime/mime.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    },
+    "node/node.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    },
+    "form-data/form-data.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    },
+    "request/request.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    },
+    "moment/moment.d.ts": {
+      "commit": "55978642a28584b258e511046b9fb9d09c8a80a4"
+    }
+  }
+}
